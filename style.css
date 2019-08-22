@@ -1,0 +1,11 @@
+.navbar:after
+{
+	display: table;
+	clear: both;
+}
+
+.navbarButton
+{
+	width: 33%;
+	float: left;
+}
