@@ -1,5 +1,5 @@
 # School-Amenities
-This is the website front end of the School Amenities.
+This is the (website) front end of the School Amenities.
 
 The back end is at ****.
 
