@@ -15,6 +15,7 @@ This is designed for TC, if it becomes popular enough, I might make a School Ame
 - Basic Calendar
 - Title
 - Navbar
+- Favicon
 - Background
 - Notepad
 - Calendar
