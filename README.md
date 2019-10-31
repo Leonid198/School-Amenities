@@ -19,7 +19,7 @@ This is designed for TC, if it becomes popular enough, I might make a School Ame
 ## Rejected features
 - N/A
 
-### Checklist
+## Checklist
 - ~Basic Title~
 - ~Basic Background~
 - ~Basic Navbar~
@@ -34,9 +34,9 @@ This is designed for TC, if it becomes popular enough, I might make a School Ame
 - Imbedded Compass
 - Overhaul Compass UI
 
-### Dependencies
+## Dependencies
 
-### Versioning
+## Versioning
 
-### The goal for School Amenities
+## The goal for School Amenities
 The goal of this project is to make life easier for students at school.
