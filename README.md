@@ -19,21 +19,22 @@ This is designed for TC, if it becomes popular enough, I might make a School Ame
 ## Rejected features
 - N/A
 
-###
-Checklist
+### Checklist
 - ~Basic Title~
 - ~Basic Background~
 - ~Basic Navbar~
 - ~Basic favicon (Icon you see in your tab)~
 - Login
 - Basic Notepad
-- Basic Calendar
 - Title
 - Navbar
 - Favicon
 - Background
 - Notepad
-- Calendar
+- Imbedded Compass
+- Overhaul Compass UI
+
+### Dependencies
 
 ### Versioning
 
